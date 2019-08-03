@@ -1,0 +1,12 @@
+ Volume in drive C is Acer
+ Volume Serial Number is E49C-B14C
+
+ Directory of C:\Users\Thomas Dhillan\Desktop\JavaProject1
+
+2019-08-03  04:19 PM    <DIR>          .
+2019-08-03  04:19 PM    <DIR>          ..
+2019-08-03  03:30 PM               675 hello.class
+2019-08-02  11:22 AM               162 hello.java
+2019-08-03  04:19 PM                 0 reame.txt
+               3 File(s)            837 bytes
+               2 Dir(s)  719,560,945,664 bytes free
